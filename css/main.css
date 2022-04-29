@@ -370,7 +370,7 @@ input {
 }
 
 .svg-icon{
-    margin-right: 0px;
+    margin-right: 0;
 }
 
 @media screen and (max-width:576px){
